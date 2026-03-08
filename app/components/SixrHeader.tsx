@@ -13,10 +13,10 @@ export default function SixrHeader() {
         initial={{ y: -8, opacity: 0.8 }}
         animate={{ y: [-12, -8, -12], opacity: [0.9, 1, 0.9] }}
         transition={{ duration: 2, repeat: Infinity }}
-        className="text-6xl font-bold text-blue-600 drop-shadow-lg bg-white/80 px-8 py-2 rounded-full"
+        className="text-6xl font-bold text-orange-600 drop-shadow-lg bg-white/80 px-8 py-2 rounded-full"
         style={{ fontFamily: '"Comic Sans MS", "Comic Sans", cursive' }}
       >
-        SIXR CRICKET
+        FROGE 69mg
       </motion.div>
     </header>
   );

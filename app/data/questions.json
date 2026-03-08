@@ -1,347 +1,397 @@
 [
   {
-    "question": "What is the length of a cricket pitch?",
-    "options": ["20 yards", "22 yards", "25 yards", "18 yards"],
-    "answer": "22 yards"
+    "question": "What is the name of the main token in the project?",
+    "options": ["FROGE69MG", "FROGEX", "FROGECOIN", "FROGDAO"],
+    "answer": "FROGE69MG"
   },
   {
-    "question": "How many players are in a cricket team?",
-    "options": ["10", "12", "11", "9"],
-    "answer": "11"
+    "question": "What animal represents the FROGE69MG ecosystem?",
+    "options": ["Dog", "Frog", "Cat", "Snake"],
+    "answer": "Frog"
   },
   {
-    "question": "Who is known as the “God of Cricket”?",
+    "question": "What type of project is FROGE69MG?",
     "options": [
-      "Virat Kohli",
-      "Brian Lara",
-      "Sachin Tendulkar",
-      "Ricky Ponting"
+      "Crypto token project",
+      "Car company",
+      "Restaurant brand",
+      "Movie studio"
     ],
-    "answer": "Sachin Tendulkar"
+    "answer": "Crypto token project"
   },
   {
-    "question": "What is scoring 100 runs in an innings called?",
-    "options": ["Century", "Double", "Tonner", "Milestone"],
-    "answer": "Century"
-  },
-  {
-    "question": "How many balls are bowled in one over?",
-    "options": ["4", "5", "6", "8"],
-    "answer": "6"
-  },
-  {
-    "question": "Which country invented cricket?",
-    "options": ["India", "England", "Australia", "South Africa"],
-    "answer": "England"
-  },
-  {
-    "question": "LBW stands for what?",
+    "question": "What digital asset is launching alongside the FROGE69MG token?",
     "options": [
-      "Long Ball Wide",
-      "Leg Before Wicket",
-      "Left Bat Wide",
-      "Lower Body Width"
+      "NFT collection",
+      "Mobile phone",
+      "Video game console",
+      "Bank card"
     ],
-    "answer": "Leg Before Wicket"
+    "answer": "NFT collection"
   },
   {
-    "question": "What is a “duck” in cricket?",
-    "options": ["6 runs", "Out without scoring", "Caught out", "Two runs"],
-    "answer": "Out without scoring"
-  },
-  {
-    "question": "Who is known as “Captain Cool”?",
-    "options": ["MS Dhoni", "Ricky Ponting", "Kane Williamson", "Eoin Morgan"],
-    "answer": "MS Dhoni"
-  },
-  {
-    "question": "How many stumps make up a wicket?",
-    "options": ["2", "3", "4", "5"],
-    "answer": "3"
-  },
-  {
-    "question": "What does ICC stand for?",
+    "question": "What kind of culture does the FROGE69MG community embrace?",
     "options": [
-      "International Cricket Council",
-      "Indian Cricket Club",
-      "International Champions Committee",
-      "Inter Cricket Coalition"
+      "Meme culture",
+      "Sports culture",
+      "Cooking culture",
+      "Fashion culture"
     ],
-    "answer": "International Cricket Council"
+    "answer": "Meme culture"
   },
   {
-    "question": "What’s a “hat-trick”?",
+    "question": "What does the FROGE69MG community aim to build?",
     "options": [
-      "3 fours in a row",
-      "3 wickets in 3 balls",
-      "3 sixes in one over",
-      "3 maidens in a match"
+      "A strong frog ecosystem",
+      "A bank chain",
+      "A hotel network",
+      "A clothing brand"
     ],
-    "answer": "3 wickets in 3 balls"
+    "answer": "A strong frog ecosystem"
   },
   {
-    "question": "What is the weight of a cricket ball?",
-    "options": ["120–130 g", "135–145 g", "155.9–163 g", "165–170 g"],
-    "answer": "155.9–163 g"
+    "question": "What do holders of FROGE69MG usually call themselves?",
+    "options": ["Frogs", "Lions", "Wolves", "Bulls"],
+    "answer": "Frogs"
   },
   {
-    "question": "What is the max overs per side in an ODI?",
-    "options": ["20", "30", "40", "50"],
-    "answer": "50"
+    "question": "What is the theme of the upcoming FROGE69MG NFT collection?",
+    "options": ["Frog characters", "Cars", "Robots", "Aliens"],
+    "answer": "Frog characters"
   },
   {
-    "question": "“T20” means how many overs per team?",
-    "options": ["15", "18", "20", "25"],
-    "answer": "20"
-  },
-  {
-    "question": "How many runs if ball crosses boundary on the full?",
-    "options": ["4", "5", "6", "2"],
-    "answer": "6"
-  },
-  {
-    "question": "What’s a maiden over?",
+    "question": "What makes each FROGE69MG NFT unique?",
     "options": [
-      "No runs scored",
-      "No wickets taken",
-      "All dot balls",
-      "All fours"
+      "Different traits",
+      "Different weight",
+      "Different size",
+      "Different shape only"
     ],
-    "answer": "No runs scored"
+    "answer": "Different traits"
   },
   {
-    "question": "Which country won the first World Cup (1975)?",
-    "options": ["Australia", "India", "West Indies", "England"],
-    "answer": "West Indies"
-  },
-  {
-    "question": "What’s the rectangular area for play called?",
-    "options": ["Ground", "Pitch", "Square", "Crease"],
-    "answer": "Pitch"
-  },
-  {
-    "question": "“The Ashes” is played between which two teams?",
+    "question": "What does minting mean for the FROGE69MG NFTs?",
     "options": [
-      "India & Pakistan",
-      "England & Australia",
-      "South Africa & New Zealand",
-      "Sri Lanka & Bangladesh"
+      "Creating the NFT on the blockchain",
+      "Selling the NFT",
+      "Deleting the NFT",
+      "Trading the NFT"
     ],
-    "answer": "England & Australia"
+    "answer": "Creating the NFT on the blockchain"
   },
   {
-    "question": "What’s a “no-ball”?",
-    "options": ["Illegal delivery", "Ball missed", "Bouncer", "Wide"],
-    "answer": "Illegal delivery"
-  },
-  {
-    "question": "What is a “wide ball”?",
+    "question": "What does the FROGE69MG community encourage?",
     "options": [
-      "Too wide to hit",
-      "Hit out of ground",
-      "Bowled fast",
-      "Too short"
+      "Strong community support",
+      "Selling quickly",
+      "Ignoring the project",
+      "Leaving the chat"
     ],
-    "answer": "Too wide to hit"
+    "answer": "Strong community support"
   },
   {
-    "question": "Highest individual Test score?",
-    "options": ["375", "400 not out", "380", "401"],
-    "answer": "400 not out"
+    "question": "What kind of branding does FROGE69MG focus on?",
+    "options": ["Frog-themed branding", "Space rockets", "Cars", "Dragons"],
+    "answer": "Frog-themed branding"
   },
   {
-    "question": "How many innings in a Test match?",
-    "options": ["2", "3", "4", "5"],
-    "answer": "4"
+    "question": "Where does most of the FROGE69MG community interact?",
+    "options": ["Social platforms", "Libraries", "Airports", "Museums"],
+    "answer": "Social platforms"
   },
   {
-    "question": "Duration of a Test match?",
-    "options": ["3 days", "4 days", "5 days", "6 days"],
-    "answer": "5 days"
-  },
-  {
-    "question": "What’s a “free hit”?",
+    "question": "What type of artwork will FROGE69MG NFTs contain?",
     "options": [
-      "Ball after no-ball",
-      "Penalty run",
-      "First ball of over",
-      "Bouncer"
+      "Digital frog art",
+      "Paintings on canvas",
+      "Metal sculptures",
+      "Paper drawings"
     ],
-    "answer": "Ball after no-ball"
+    "answer": "Digital frog art"
   },
   {
-    "question": "What are the small pieces on top of stumps?",
-    "options": ["Pins", "Bails", "Bars", "Sticks"],
-    "answer": "Bails"
-  },
-  {
-    "question": "Who scored 100 international centuries?",
+    "question": "Why do people collect FROGE69MG NFTs?",
     "options": [
-      "Ricky Ponting",
-      "Sachin Tendulkar",
-      "Virat Kohli",
-      "Brian Lara"
+      "Community and rarity",
+      "Physical weight",
+      "Paper value",
+      "Color alone"
     ],
-    "answer": "Sachin Tendulkar"
+    "answer": "Community and rarity"
   },
   {
-    "question": "Who is called “The Wall”?",
+    "question": "What is the spirit of the FROGE69MG project?",
     "options": [
-      "Rahul Dravid",
-      "Sourav Ganguly",
-      "AB de Villiers",
-      "Steve Waugh"
+      "Fun and community",
+      "Silence",
+      "Competition only",
+      "Isolation"
     ],
-    "answer": "Rahul Dravid"
+    "answer": "Fun and community"
   },
   {
-    "question": "Ground known as “Home of Cricket”?",
-    "options": ["MCG", "Lord’s", "Eden Gardens", "SCG"],
-    "answer": "Lord’s"
+    "question": "What kind of environment is often associated with frogs?",
+    "options": ["Ponds", "Deserts", "Mountains", "Ice fields"],
+    "answer": "Ponds"
   },
   {
-    "question": "Which team won 2011 World Cup?",
-    "options": ["India", "Sri Lanka", "Australia", "Pakistan"],
-    "answer": "India"
+    "question": "What do frogs do best?",
+    "options": ["Hop", "Fly", "Dig", "Climb walls"],
+    "answer": "Hop"
   },
   {
-    "question": "Who hit six sixes in one over in 2007 T20 WC?",
+    "question": "What color is most associated with frogs and the project theme?",
+    "options": ["Green", "Purple", "Orange", "Black"],
+    "answer": "Green"
+  },
+  {
+    "question": "What makes the FROGE69MG community strong?",
+    "options": ["Unity", "Silence", "Isolation", "Competition"],
+    "answer": "Unity"
+  },
+  {
+    "question": "What kind of project energy does FROGE69MG promote?",
+    "options": ["Positive vibes", "Negative vibes", "Silence", "Fear"],
+    "answer": "Positive vibes"
+  },
+  {
+    "question": "What helps FROGE69MG grow?",
     "options": [
-      "Chris Gayle",
-      "Yuvraj Singh",
-      "AB de Villiers",
-      "Brendon McCullum"
+      "Community support",
+      "Ignoring the project",
+      "Selling everything",
+      "Deleting tokens"
     ],
-    "answer": "Yuvraj Singh"
+    "answer": "Community support"
   },
   {
-    "question": "What is “sledging”?",
-    "options": ["Running fast", "Verbal taunting", "Sliding", "Bowling spin"],
-    "answer": "Verbal taunting"
-  },
-  {
-    "question": "What is “follow-on”?",
-    "options": ["Team bats again", "Replay match", "Extra inning", "Powerplay"],
-    "answer": "Team bats again"
-  },
-  {
-    "question": "What is a “bouncer”?",
-    "options": ["Full-length", "Short-pitched rising ball", "Yorker", "Spin"],
-    "answer": "Short-pitched rising ball"
-  },
-  {
-    "question": "When did IPL start?",
-    "options": ["2005", "2007", "2008", "2009"],
-    "answer": "2008"
-  },
-  {
-    "question": "Who won the first IPL title?",
+    "question": "What type of collectibles are FROGE69MG NFTs?",
     "options": [
-      "Chennai Super Kings",
-      "Rajasthan Royals",
-      "Mumbai Indians",
-      "KKR"
+      "Digital collectibles",
+      "Paper collectibles",
+      "Stone collectibles",
+      "Metal collectibles"
     ],
-    "answer": "Rajasthan Royals"
+    "answer": "Digital collectibles"
   },
   {
-    "question": "Which player hit the fastest ODI century (2015)?",
+    "question": "What does the project hope to create with its NFTs?",
     "options": [
-      "AB de Villiers",
-      "Corey Anderson",
-      "Glenn Maxwell",
-      "Jos Buttler"
+      "A frog-themed ecosystem",
+      "A restaurant chain",
+      "A hotel brand",
+      "A sports league"
     ],
-    "answer": "AB de Villiers"
+    "answer": "A frog-themed ecosystem"
   },
   {
-    "question": "Who was India’s 1983 World Cup captain?",
+    "question": "What kind of identity does the project focus on?",
     "options": [
-      "Kapil Dev",
-      "Sunil Gavaskar",
-      "Mohinder Amarnath",
-      "Sourav Ganguly"
+      "Frog identity",
+      "Lion identity",
+      "Wolf identity",
+      "Dragon identity"
     ],
-    "answer": "Kapil Dev"
+    "answer": "Frog identity"
   },
   {
-    "question": "What is DRS?",
+    "question": "What type of culture powers meme tokens like FROGE69MG?",
     "options": [
-      "Decision Review System",
-      "Double Run Score",
-      "Duck Run System",
-      "Defensive Run Stat"
+      "Internet meme culture",
+      "Office culture",
+      "School culture",
+      "Military culture"
     ],
-    "answer": "Decision Review System"
+    "answer": "Internet meme culture"
   },
   {
-    "question": "Which bowler has most Test wickets?",
+    "question": "What does the community celebrate during launches?",
     "options": [
-      "Shane Warne",
-      "Muttiah Muralitharan",
-      "James Anderson",
-      "Anil Kumble"
+      "New releases",
+      "Shutdowns",
+      "Token burns only",
+      "Server crashes"
     ],
-    "answer": "Muttiah Muralitharan"
+    "answer": "New releases"
   },
   {
-    "question": "Which batsman has most ODI runs?",
+    "question": "What is the goal of building a strong NFT community?",
     "options": [
-      "Ricky Ponting",
-      "Sachin Tendulkar",
-      "Virat Kohli",
-      "Sanath Jayasuriya"
+      "Long-term growth",
+      "Short-term silence",
+      "Ending the project",
+      "Stopping trading"
     ],
-    "answer": "Sachin Tendulkar"
+    "answer": "Long-term growth"
   },
   {
-    "question": "What is a “super over”?",
-    "options": ["Tie-breaker over", "Extra innings", "Free hit", "Bonus runs"],
-    "answer": "Tie-breaker over"
-  },
-  {
-    "question": "Which nation won 2019 World Cup?",
-    "options": ["New Zealand", "Australia", "England", "India"],
-    "answer": "England"
-  },
-  {
-    "question": "Who is “Universe Boss”?",
+    "question": "What kind of frogs inspire the art in FROGE69MG?",
     "options": [
-      "Chris Gayle",
-      "Andre Russell",
-      "Kieron Pollard",
-      "Dwayne Bravo"
+      "Stylized meme frogs",
+      "Real frogs only",
+      "Cartoon dogs",
+      "Alien animals"
     ],
-    "answer": "Chris Gayle"
+    "answer": "Stylized meme frogs"
   },
   {
-    "question": "Who has the nickname “Boom Boom”?",
-    "options": ["Shahid Afridi", "Babar Azam", "Shoaib Akhtar", "Imran Khan"],
-    "answer": "Shahid Afridi"
-  },
-  {
-    "question": "How many runs for overthrow that crosses boundary?",
-    "options": ["4", "2", "6", "1"],
-    "answer": "4"
-  },
-  {
-    "question": "Who was the first cricketer to hit 6 sixes in an over?",
-    "options": ["Garfield Sobel", "Gary Sobers", "Viv Richards", "Chris Gayle"],
-    "answer": "Gary Sobers"
-  },
-  {
-    "question": "Which is the largest cricket stadium?",
+    "question": "What keeps the FROGE69MG ecosystem active?",
     "options": [
-      "Melbourne Cricket Ground",
-      "Eden Gardens",
-      "Narendra Modi Stadium",
-      "Lord’s"
+      "Community participation",
+      "Silence",
+      "Deleting chats",
+      "Leaving the project"
     ],
-    "answer": "Narendra Modi Stadium"
+    "answer": "Community participation"
   },
   {
-    "question": "Which country hosted 2023 World Cup?",
-    "options": ["Australia", "India", "England", "New Zealand"],
-    "answer": "India"
+    "question": "What do collectors look for in FROGE69MG NFTs?",
+    "options": ["Rare traits", "Weight", "Size", "Paper value"],
+    "answer": "Rare traits"
+  },
+  {
+    "question": "What type of art medium are FROGE69MG NFTs?",
+    "options": [
+      "Digital art",
+      "Oil painting",
+      "Clay sculpture",
+      "Stone carving"
+    ],
+    "answer": "Digital art"
+  },
+  {
+    "question": "What does the frog symbolize in the project?",
+    "options": ["Community and fun", "Fear", "Silence", "Competition"],
+    "answer": "Community and fun"
+  },
+  {
+    "question": "What makes NFT traits interesting to collectors?",
+    "options": ["Rarity", "Weight", "Temperature", "Thickness"],
+    "answer": "Rarity"
+  },
+  {
+    "question": "What helps spread the FROGE69MG brand?",
+    "options": [
+      "Community sharing",
+      "Ignoring it",
+      "Deleting posts",
+      "Stopping discussion"
+    ],
+    "answer": "Community sharing"
+  },
+  {
+    "question": "What kind of ecosystem is FROGE69MG building?",
+    "options": [
+      "Frog-themed crypto ecosystem",
+      "Bank ecosystem",
+      "Hotel ecosystem",
+      "Retail ecosystem"
+    ],
+    "answer": "Frog-themed crypto ecosystem"
+  },
+  {
+    "question": "What do strong communities do for a project?",
+    "options": ["Help it grow", "End it quickly", "Ignore it", "Hide it"],
+    "answer": "Help it grow"
+  },
+  {
+    "question": "What makes NFTs exciting to collect?",
+    "options": ["Uniqueness", "Weight", "Size", "Age"],
+    "answer": "Uniqueness"
+  },
+  {
+    "question": "What does the frog mascot represent?",
+    "options": [
+      "The FROGE69MG identity",
+      "A random animal",
+      "A competitor token",
+      "A sports team"
+    ],
+    "answer": "The FROGE69MG identity"
+  },
+  {
+    "question": "What kind of launch event excites the community?",
+    "options": [
+      "NFT mint",
+      "Project shutdown",
+      "Server crash",
+      "Token deletion"
+    ],
+    "answer": "NFT mint"
+  },
+  {
+    "question": "What do people enjoy sharing in the FROGE69MG community?",
+    "options": ["Memes", "Homework", "Weather reports", "Traffic updates"],
+    "answer": "Memes"
+  },
+  {
+    "question": "What kind of artwork makes the NFTs stand out?",
+    "options": [
+      "Unique frog traits",
+      "Plain backgrounds",
+      "Blank images",
+      "No traits"
+    ],
+    "answer": "Unique frog traits"
+  },
+  {
+    "question": "What keeps a meme project alive?",
+    "options": [
+      "Community engagement",
+      "Silence",
+      "Deleting chats",
+      "Stopping updates"
+    ],
+    "answer": "Community engagement"
+  },
+  {
+    "question": "What is the vibe of the FROGE69MG ecosystem?",
+    "options": [
+      "Fun and energetic",
+      "Serious and silent",
+      "Quiet and inactive",
+      "Closed and private"
+    ],
+    "answer": "Fun and energetic"
+  },
+  {
+    "question": "What do frogs do that represents growth in the project?",
+    "options": [
+      "Leap forward",
+      "Sleep forever",
+      "Hide underground",
+      "Stay still"
+    ],
+    "answer": "Leap forward"
+  },
+  {
+    "question": "What type of community does FROGE69MG want?",
+    "options": ["Active", "Silent", "Inactive", "Hidden"],
+    "answer": "Active"
+  },
+  {
+    "question": "What makes the frog mascot memorable?",
+    "options": ["Its meme identity", "Its weight", "Its height", "Its age"],
+    "answer": "Its meme identity"
+  },
+  {
+    "question": "What is one goal of the FROGE69MG NFT launch?",
+    "options": [
+      "Expand the ecosystem",
+      "End the project",
+      "Remove the token",
+      "Close the community"
+    ],
+    "answer": "Expand the ecosystem"
+  },
+  {
+    "question": "What keeps collectors interested in NFTs?",
+    "options": [
+      "Rarity and community",
+      "Temperature",
+      "Weight",
+      "Paper copies"
+    ],
+    "answer": "Rarity and community"
   }
 ]

@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SIXR",
-  description: "Created by 0xhon & ask0f",
+  title: "FROGE69mg",
+  description: "Created by ask0f",
 };
 
 export default function RootLayout({

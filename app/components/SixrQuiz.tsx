@@ -28,13 +28,13 @@ type SixrQuizProps = {
 };
 
 export default function SixrQuiz({ questions }: SixrQuizProps) {
-  const TOTAL = 50; // number of questions per round
+  const TOTAL = 50;
   const QUESTION_TIME = 20;
 
   const [index, setIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [showFeedback, setShowFeedback] = useState<null | "correct" | "wrong">(
-    null
+    null,
   );
   const [isBatting, setIsBatting] = useState(false);
   const [showScoreboard, setShowScoreboard] = useState(false);
@@ -47,23 +47,20 @@ export default function SixrQuiz({ questions }: SixrQuizProps) {
     pointer: 0,
   });
 
-  /** Initialize question deck once on mount */
   useEffect(() => {
     const totalCount = questions.length;
     const shuffledIndices = shuffle(
-      Array.from({ length: totalCount }, (_, i) => i)
+      Array.from({ length: totalCount }, (_, i) => i),
     );
     deckRef.current = { deck: shuffledIndices, pointer: 0 };
     createNextBatch();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  /** Create the next 50-question batch */
   function createNextBatch() {
     const totalCount = questions.length;
     let { deck, pointer } = deckRef.current;
 
-    // Reshuffle if deck is running low
     if (pointer + TOTAL > deck.length) {
       deck = shuffle(Array.from({ length: totalCount }, (_, i) => i));
       pointer = 0;
@@ -75,7 +72,6 @@ export default function SixrQuiz({ questions }: SixrQuizProps) {
     const batch = slice.map((idx) => questions[idx]);
     setSelectedBatch(batch);
 
-    // Reset UI states
     setIndex(0);
     setScore(0);
     setShowFeedback(null);
@@ -84,7 +80,6 @@ export default function SixrQuiz({ questions }: SixrQuizProps) {
     setTimeLeft(QUESTION_TIME);
   }
 
-  /** Manage timer for each question */
   useEffect(() => {
     if (showScoreboard) return;
 
@@ -133,13 +128,14 @@ export default function SixrQuiz({ questions }: SixrQuizProps) {
   const currentQ = selectedBatch[index] ?? null;
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-blue-50 to-white">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-orange-50 to-white">
       <SixrHeader />
       <main className="p-6 grid grid-cols-1 md:grid-cols-3 gap-6 items-start w-full max-w-5xl bg-white/60 backdrop-blur-md rounded-2xl shadow-lg border border-white/40 overflow-hidden">
         <div className="col-span-1 flex flex-col items-center gap-4">
           <Player isBatting={isBatting} />
           <TimerBar timeLeft={timeLeft} total={QUESTION_TIME} />
-          <div className="text-3xl font-bold text-blue-600 mt-4">
+
+          <div className="text-3xl font-bold text-orange-600 mt-4">
             Score: {score}
           </div>
         </div>
